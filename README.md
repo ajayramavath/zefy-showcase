@@ -227,24 +227,12 @@ This project demonstrates:
 
 ## Mobile Applications (Production)
 
-### User App — Service Discovery & Booking
+<p align="center">
+  <img src="./docs/mobile-app-1.png" width="250" />
+  <img src="./docs/mobile-app-2.png" width="250" />
+</p>
 
-![User App – Service Selection](./docs/mobile-app-1.png)
-
----
-
-### User App — Partner Search & Assignment
-
-![User App – Searching Partner](./docs/mobile-app-2.png)
-
----
-
-### User App — Live Tracking & ETA
-
-![User App – Partner Enroute](./docs/mobile-app-3.png)
-
----
-
-### Partner App — Availability & Job Management
-
-![Partner App – Online & Jobs](./docs/mobile-app-4.png)
+<p align="center">
+  <img src="./docs/mobile-app-3.png" width="250" />
+  <img src="./docs/mobile-app-4.png" width="250" />
+</p>
