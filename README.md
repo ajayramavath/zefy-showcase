@@ -229,22 +229,22 @@ This project demonstrates:
 
 ### User App — Service Discovery & Booking
 
-![User App – Service Selection](./mobile-app-1.png)
+![User App – Service Selection](./docs/mobile-app-1.png)
 
 ---
 
 ### User App — Partner Search & Assignment
 
-![User App – Searching Partner](./mobile-app-2.png)
+![User App – Searching Partner](./docs/mobile-app-2.png)
 
 ---
 
 ### User App — Live Tracking & ETA
 
-![User App – Partner Enroute](./mobile-app-3.png)
+![User App – Partner Enroute](./docs/mobile-app-3.png)
 
 ---
 
 ### Partner App — Availability & Job Management
 
-![Partner App – Online & Jobs](./mobile-app-4.png)
+![Partner App – Online & Jobs](./docs/mobile-app-4.png)
